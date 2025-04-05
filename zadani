@@ -1,0 +1,17 @@
+Zadání od školy ENGETO
+
+Projekt : PBI Projekt
+Tento projekt je zaměřen na vizualizování datasetu. Použít můžeš svůj vlastní předpřipravený dataset.
+Zamysli se, která data jsou pro čtenáře nejzajímavější a ta mu nabídni, včetně vhodné interaktivity.
+Musíš vhodným způsobem graficky zobrazit data v Power BI reportu.
+
+Tvým úkolem tedy je vizualizovat tebou zvolený dataset podle níže zadaných kritérií.
+
+1)  Rozsah 2-5 stránek
+2)  Použití minimálně 5 různých typů vizuálů
+3)  Filtrování (primárně) pomocí průřezů/slicerů
+4)  Využití interaktivních prvků jako jsou záložky, navigace po stranách, odkazy na webové stránky ...
+5)  Propojení několika (2+) datových tabulek, buď přes vazby v rámci Power BI nebo přes propojení v Power Query
+6)  Použití vytvořené hierarchie o alespoň dvou úrovních (nepovinné)
+7)  Vytvoření alespoň 1 measure (metrika/míra) a 1 kalkulovaného sloupce/tabulky
+8)  Grafická úprava použitých vizuálů, zvolení správných typů vizuálů a vizuálně přívětivý výsledný report
