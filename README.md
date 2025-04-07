@@ -9,5 +9,5 @@ Zpracování:
 5)  Prohlédl jsem veškerá data a odebral nepotřebné tabulky. Dále jsem odebral nepotřebné sloupce v zachovaných tabulkách.
 6)  Propojil jsem tabulky přes vhodné 'klíče'. Pro přehlednost jsem vhodné tabulky sloučil do jedné pomocí Power Query.
 7)  Vytvořil jsem interaktivní dashboard s názvem Analýza zákazníků (Brazilský e-commerce). Použil jsem i základy DAX.
-8)  Na třech listech se snažím (na datových podkladech)o to, aby si majitel e-shopu mohl odpovědět na otázku: "Kdo jsou moji zákazníci a jak se chovají?".
+8)  Na třech listech se snažím (na datových podkladech) o to, aby si majitel e-shopu mohl odpovědět na otázku: "Kdo jsou moji zákazníci a jak se chovají?".
 9)  Publikoval jsem vytvořený dashboard.
